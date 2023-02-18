@@ -13,7 +13,7 @@ Implementation done are:
 
 ## Demo
 
-
+![video_gif](https://user-images.githubusercontent.com/59758501/219857516-b5688706-5934-4950-8174-b67aee88a59a.gif)
 
 ## Documentation
 
@@ -36,7 +36,14 @@ Implementation done are:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![image](https://user-images.githubusercontent.com/59758501/219857664-307dc698-bf21-4912-a748-4c9bb885f70d.png)
+![image](https://user-images.githubusercontent.com/59758501/219857675-2c6309e1-e073-4363-8b1e-43b1f36cded8.png)
+![image](https://user-images.githubusercontent.com/59758501/219857684-5b10ca7f-cccd-48c6-baa1-e9a0c927d074.png)
+![image](https://user-images.githubusercontent.com/59758501/219857708-ac7fb5c9-3ebb-44bb-b108-e988c5449ead.png)
+![image](https://user-images.githubusercontent.com/59758501/219857698-3f6c8956-c6bb-418a-aaa1-67fbcc9b1b59.png)
+![image](https://user-images.githubusercontent.com/59758501/219857605-be4f075f-193e-482c-85e8-430fe5b660fd.png)
+
 
 
 ## Used By
